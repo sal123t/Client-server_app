@@ -13,8 +13,8 @@ a computer.
 
 # Usage
 <p>To run it u should have 2 computers at least, u can try to run it on virtual machine as well.</p>
-<p>It can also be launched not only on computers located in the local network, but also via the Internet. But both of computers should have a white IP adress.</p>
-<p>U can turn on/off "server" computer or make cmd commands on it.</p>
+<p>It can also be launched not only on computers located in the local network, but also via the Internet. But the "server" machine should have a white IP adress.</p>
+<p>U can turn on/off "server" computer or make cmd commands on it from "client".</p>
 
 # Get started:
 <ul>
