@@ -1,4 +1,4 @@
-﻿//Orshak Ivan, 2018
+//Orshak Ivan, 2018
 
 #include "Main.h"
 #include "Client.h"
