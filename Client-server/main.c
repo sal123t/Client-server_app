@@ -28,14 +28,10 @@ int RequestHandler(char* Requests)
 	}
 
 	else if (strcmp(Requests, "/start&server") == 0)
-	{
 		return StartServer();
-	}
 
 	else if (strcmp(Requests, "/start&client") == 0)
-	{
 		return StartClient();
-	}
 
 	else if (strcmp(Requests, "/exit") == 0)
 		exit(0);
